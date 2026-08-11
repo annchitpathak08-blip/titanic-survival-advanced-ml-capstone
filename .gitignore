@@ -6,6 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+# Python
+__pycache__/
+*.py[cod]
+
+# Trained model
+*.pkl
+
+# CatBoost
+catboost_info/
+
+# Jupyter
+.ipynb_checkpoints/
+
 # Distribution / packaging
 .Python
 build/
