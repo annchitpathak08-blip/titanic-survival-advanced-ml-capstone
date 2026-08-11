@@ -793,3 +793,10 @@ The script downloads the Titanic dataset from OpenML, performs the complete work
 This project serves as my **advanced machine learning capstone**, bringing together the concepts and workflow developed throughout my machine learning projects into one complete classification problem.
 
 Rather than treating the final metric as the entire result, the project focuses on building a workflow that can be inspected at every stage — from the original data and feature engineering decisions to validation, tuning, final predictions, feature importance, and model errors.
+
+
+## Author
+
+**Annchit Pathak**
+
+This project was developed as my advanced machine learning capstone, bringing together the concepts and workflows covered throughout my machine learning journey.
