@@ -1,6 +1,9 @@
+Python
 NumPy
 Pandas
 Matplotlib
 Seaborn
-Scikit-Learn
-Pillow
+Scikit-learn
+XGBoost
+CatBoost
+Joblib
